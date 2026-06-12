@@ -5,4 +5,7 @@ Numerical simulation of the circular restricted three-body problem with the Eart
 The Artemis 2 Lunar flyby mission with its free-return trajectory was the inspiration. This simulation, however, does not match a particular mission. THe positions of the Earth, Moon, and spacecraft are not based on ephimerides. This simulation is a first-order approximation. If Artemis missions will continue going to the Moon and back, it is relevant to model and study the 3-body problem. This simulation is a first step. 
 
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](LICENSE)
+![Language](https://img.shields.io/badge/Language-Python-blue.svg)
+![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)
+
 
