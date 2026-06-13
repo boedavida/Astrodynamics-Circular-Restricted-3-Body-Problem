@@ -1,7 +1,6 @@
 # requirements.txt
 # Generated from .venv on 2026-06-13
 # Detected packages required by cr3bp_trajectory_option_A.ipynb
-# Note: 'notebook' and 'jupyter' were not installed in the venv; see discussion in README or reply.
 numpy==2.4.4
 scipy==1.17.1
 matplotlib==3.10.8
